@@ -1,5 +1,5 @@
-#LyX 2.3 created this file. For more info see http://www.lyx.org/
-\lyxformat 544
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
 \begin_document
 \begin_header
 \save_transient_properties true
@@ -21,8 +21,6 @@
 \font_osf false
 \font_sf_scale 100 100
 \font_tt_scale 100 100
-\use_microtype false
-\use_dash_ligatures true
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -51,7 +49,6 @@
 \suppress_date false
 \justification true
 \use_refstyle 1
-\use_minted 0
 \index Index
 \shortcut idx
 \color #008000
@@ -60,10 +57,7 @@
 \tocdepth 3
 \paragraph_separation indent
 \paragraph_indentation default
-\is_math_indent 0
-\math_numbering_side default
-\quotes_style english
-\dynamic_quotes 0
+\quotes_language english
 \papercolumns 1
 \papersides 1
 \paperpagestyle default
@@ -105,7 +99,7 @@ From elementary and high schools until college, students all over the world
 \end_layout
 
 \begin_layout Standard
-We spread a questionnaire among university students gathering information
+We spread a questionnaire between university students gathering information
  on study ways (alone vs groups), group sizes, exam types, group dynamics
  and knowledge gaps; and their effect on study effectiveness and exam results.
  It has been concluded that large groups and close relationships produced
@@ -125,7 +119,6 @@ Related Work
 \begin_inset CommandInset citation
 LatexCommand cite
 key "bryson2007effectiveness"
-literal "true"
 
 \end_inset
 
@@ -134,273 +127,6 @@ literal "true"
 
 \begin_layout Section
 Research Method
-\end_layout
-
-\begin_layout Standard
-Systematic literature review was selected as the research methodology for
- this study.
- The systematic literature review method is a well-defined approach to identify,
- evaluate and interpret relevant studies regarding a particular research
- question, topic area or phenomenon of interest.
- This method was chosen because we wanted to get a fair, credible and unbiased
- evaluation of ideas to when and how we’d prefer studying in groups over
- studying alone before tests.
- The systematic review was performed as shown in Figure 1 and the main steps
- of our research method are presented in Figure 2.
- At first, we searched articles and related works (Section 3) manually on
- the web, mainly in Scholars.
- 
-\end_layout
-
-\begin_layout Standard
-4.1 Data Collection
-\end_layout
-
-\begin_layout Standard
-The data collection was done in a staged process: first, each journal and
- conference venue was manually reviewed by reading its title and keywords.
- Then, we searched studies identified in related reviews and followed up
- on references in studies found at the first stage.
- Finally, a more profound examination was done, and we merged and summarized
- the results.
- Along the process, we’ve focused on articles related to our model’s parameters.
-\end_layout
-
-\begin_layout Standard
-4.2 Definitions After collecting the data and analyzing the related works,
- we defined main terms relevant to our research in order to create a common
- language.
- The first definition is “Study Effectiveness”.
- Study Effectiveness is a weighting of 3 parameters – study time, improvement
- and knowledge level after studying (and before actually taking the exam).
- These 3 parameters were measured in a scale of 1 to 5.
- Study time was measured as 5 minus the actual value, since low value of
- time represents high record.
- The study effectiveness was calculated as average of these 3 parameters.
- The second definition is “Exam Results”, which is a conclusion of both
- grade and satisfaction level.
- Grade is a value in scale of 0 to 100, and satisfaction level of 1 to 3.
- In order to combine these parameters, we multiplied them and divided by
- 6, which led to a final value between 0 and 50.
- The weighting was done by the multiplication operation, while the division
- did not modify the statistical analysis nor the results, but only reduced
- the range.
- By combining these 2 parameters we relate also to the expected score of
- the student and get a more accurate measure to the success of an individual.
-\end_layout
-
-\begin_layout Standard
-4.3 Research Model and Hypotheses
-\end_layout
-
-\begin_layout Standard
-The following step was constructing an initial research model, followed
- by defining hypotheses.
- Our initial Research Model consisted of 6 variables.
- Studying effectiveness and test results (discussed in section 4.2) are both
- dependent variables, and the rest are independent.
- The first independent variable is relationships between the group members.
- We assumed that close relationships is key to a qualitative learning.
- Additionally, it may improve group chemistry and studying experience.
- The next variable is the knowledge gaps among group members.
- In case the gaps are too large we may impair the quality of studying and
- the ability of each individual to make a significant profit.
- At the same time, we assumed small knowledge gaps improve the quality of
- the collective learning, help narrowing the gaps and sustain improved understan
-ding through explanations: Those who struggle can narrow their minor gaps,
- while those who explain sharpen their understanding.
- The following variable is the nature of the exam – realistic or theoretical.
- We would like to examine whether there is a way to classify the various
- subjects according to this criterion.
- In practical subjects the main study strategy is practicing.
- On the one hand, if another group member solves the exercise we miss out
- on the study process.
- On the other hand, practicing in groups allows us to compare answers among
- group members.
- In theoretical subjects, group studying allows discussion and sharing ideas
- which contributes to each individual in the group.
- Finally, the last variable is the group size.
- Limited group size may contribute to effective studying and to the ability
- of each individual to express freely.
- Too large groups may cause distraction and detract from the studying quality
- of the material.
- The model is represented in Figure 3.
- Along the research we added a confounder to our model, and then redefined
- the hypotheses.
- The cofounding variable is personal level of knowledge relative to the
- group.
- This variable is related to the knowledge gaps, and grant subjective aspect,
- relative to rest of the group members.
- Now, our hypothesis - small knowledge gaps among group members improve
- understanding through explanations, relating specifically to each individual's
- knowledge level (relative to the other group members).
- In addition, we decided to change the relation between relationships among
- the group members and study effectiveness from ‘+’ to ‘?’ since we identified
- other aspects: close relationships may be an obstacle and a distraction
- to the group members, for it is more likely to transfer the conversation
- topic from the learnt subject to unrelated (probably personal) issues.
- Also, sometimes tension develops among the members of the group.
- The refactored model is represented in Figure 4.
-\end_layout
-
-\begin_layout Standard
-4.4 Research Tools Afterwards, we assembled a questionnaire – our research
- tool.
- The questionnaire was based on possible ideas and conclusions from the
- related works.
- After receiving a first review on the questionnaire, we fixed it accordingly
- and finally distributed it.
- The changes included clarifying the term “Study effectiveness”, adding
- the option to mention the exact score of the exam, and dividing the questionnai
-re into two separate sections to get a more readable questionnaire.
- The questionnaire suits the research model, takes into account each of
- our variables and is available at https://goo.gl/forms/qExJ7c4H8ll6WOC82.
-\end_layout
-
-\begin_layout Standard
-The final step was analyzing the results in order to answer our research
- questions and draw some conclusions based on them.
- 
-\end_layout
-
-\begin_layout Standard
-\begin_inset Float figure
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename figures/Research method/Figure 1.png
-
-\end_inset
-
-
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Float figure
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename figures/Research method/Figure 2.png
-
-\end_inset
-
-
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Float figure
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename figures/Research method/Figure 3.png
-
-\end_inset
-
-
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Float figure
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename figures/Research method/Figure 4.png
-
-\end_inset
-
-
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Section
@@ -714,26 +440,6 @@ Name It
 
 \begin_layout Section
 Summary
-\end_layout
-
-\begin_layout Standard
-In our research we wanted to understand whether, and more important - when
- and how, to study alone or as part of study group.
- We spread a questionnaire among university students gathering information
- on study ways (alone vs groups), group sizes, exam types, group dynamics
- and knowledge gaps; and their effect on study effectiveness and exam results.
- It has been concluded that large groups and close relationships produced
- better effectiveness but worse results, as smaller knowledge gaps and theoretic
-al exams had a positive influence on both aspects.
- Our model parameters were considered significant by more than 55% of participan
-ts.
- The most significant one indicated was the Group Size, supported by more
- than 75% of questionnaire respondents.
- For future work, we’d like to also examine the effects of Studying Environment
- and Group Dynamics, as suggested by some of the respondents.
- We’d also like to spread the questionnaire to a larger number of respondents
- in order to get better feedback and more reliable results.
- 
 \end_layout
 
 \begin_layout Standard
