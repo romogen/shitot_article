@@ -78,7 +78,7 @@
 \begin_body
 
 \begin_layout Title
-Title Title I Don't Know
+Studying Before Tests - Alone or Together?
 \end_layout
 
 \begin_layout Author
@@ -116,6 +116,53 @@ al exams had a positive influence on both aspects.
 
 \begin_layout Section
 Introduction
+\end_layout
+
+\begin_layout Standard
+Students are frequently concerned with the issue of study groups, as a tool
+ for better prepartion for exams.
+ Questions regarding this topic include: Is there a preferred method for
+ enhancing the efficacy of studying? Which methodology should be applied
+ in group studying? Are there merits of group studying over studying on
+ one own, and if so, under which conditions? 
+\end_layout
+
+\begin_layout Standard
+Such questions have been discussed in many articles, which described comparisons
+ of results in various study topics and student communities.
+ Analysis of these articles does not lead to a conclusive answer.
+ While some articles suggest that studying alone brings better results,
+ others contend the contrary, and many are not conclusive.
+ For example, Rybczynski (1) and Bryson (2) found that results in biology
+ and math courses, were not conclusively different when studying one one
+ own or in study groups.
+ Klein (3) has found that studying on one own gave better results than group
+ study, in terms of the grades and the motivation for more learning.
+ 
+\end_layout
+
+\begin_layout Standard
+This variability is probably due to the dependence on many parameters, such
+ as: the research method, the course being studied, and the aspects considered
+ in the research.
+ 
+\end_layout
+
+\begin_layout Standard
+In the present research, we propose to examine parameters affecting the
+ optimal study strategy (group/own), including: group size, study topic
+ (theoretical/practical), and extent of variability in group participants'
+ proficiency in the study topic.
+ Moreover, while most previous research considered grade driven study strategies
+, we propose to examine the learning efficacy as another outcome of the
+ study strategy.
+ Students' satisfaction with the obtained grade will also be considered
+ as a measured outcome.
+ A questionnaire was established by us, as a tool for obtaining data from
+ students regarding the above.
+ It was first submitted to a pilot group, in order to receive feedback,
+ and this allowed an adjustment of the questionnaire for ensuring valid
+ and significant research results.
 \end_layout
 
 \begin_layout Section
@@ -269,13 +316,12 @@ Systematic literature review was selected as the research methodology for
  studying alone before tests.
  The systematic review was performed as shown in Figure 1 and the main steps
  of our research method are presented in Figure 2.
- At first, we searched articles and related works (Section 3) manually on
- the web, mainly in Scholars.
- 
+ As discussed in section 3, we've got to the sources and related works examined
+ searching manually on the web, mainly in Scholars.
 \end_layout
 
-\begin_layout Standard
-4.1 Data Collection
+\begin_layout Subsection
+Data Collection
 \end_layout
 
 \begin_layout Standard
@@ -285,98 +331,132 @@ The data collection was done in a staged process: first, each journal and
  on references in studies found at the first stage.
  Finally, a more profound examination was done, and we merged and summarized
  the results.
- Along the process, we’ve focused on articles related to our model’s parameters.
+ Along the process, we’ve focused on articles related to our model’s parameters,
+ as presented in section 4.3.
+\end_layout
+
+\begin_layout Subsection
+Definitions 
 \end_layout
 
 \begin_layout Standard
-4.2 Definitions After collecting the data and analyzing the related works,
- we defined main terms relevant to our research in order to create a common
- language.
- The first definition is “Study Effectiveness”.
- Study Effectiveness is a weighting of 3 parameters – study time, improvement
- and knowledge level after studying (and before actually taking the exam).
+After collecting the data and analyzing the related works, to create a common,
+ more simple language, we defined a couple of terms relevant to our research.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Definition 1 - Study Effectiveness 
+\end_layout
+
+\begin_layout Standard
+Study Effectiveness is a weighting of 3 parameters – study time, improvement
+ level and the knowledge level after studying (and before actually taking
+ the exam).
  These 3 parameters were measured in a scale of 1 to 5.
- Study time was measured as 5 minus the actual value, since low value of
- time represents high record.
- The study effectiveness was calculated as average of these 3 parameters.
- The second definition is “Exam Results”, which is a conclusion of both
- grade and satisfaction level.
- Grade is a value in scale of 0 to 100, and satisfaction level of 1 to 3.
+ Study time was weighted as 5 minus its actual value, since lower values
+ for study time stands for higher effectiveness.
+ The study effectiveness was calculated as the average of these 3 parameters.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Definition 2 - Exam Results 
+\end_layout
+
+\begin_layout Standard
+The exam results are a conclusion of both the exam grade and the stidents'
+ satisfaction level from it.
+ Grade is a value in scale of 0 to 100, and satisfaction level is between
+ 1 to 3 (3 is highest).
  In order to combine these parameters, we multiplied them and divided by
- 6, which led to a final value between 0 and 50.
+ a constant (6), which led to a final value between 0 and 50.
  The weighting was done by the multiplication operation, while the division
- did not modify the statistical analysis nor the results, but only reduced
- the range.
+ (which, of course, did not affect the statistical analysis nor the results)
+ was only aimed at reducing and compacting the range.
  By combining these 2 parameters we relate also to the expected score of
  the student and get a more accurate measure to the success of an individual.
 \end_layout
 
-\begin_layout Standard
-4.3 Research Model and Hypotheses
+\begin_layout Subsection
+Research Model and Hypotheses
 \end_layout
 
 \begin_layout Standard
 The following step was constructing an initial research model, followed
- by defining hypotheses.
+ by defining our hypotheses.
  Our initial Research Model consisted of 6 variables.
- Studying effectiveness and test results (discussed in section 4.2) are both
- dependent variables, and the rest are independent.
+ The model is represented in Figure 3.
+ Studying effectiveness and test results (as discussed in section 4.2) are
+ both the dependent variables.
+ The other 4 are independent.
  The first independent variable is relationships between the group members.
- We assumed that close relationships is key to a qualitative learning.
+ We assumed that close relationship is a key to a qualitative learning.
  Additionally, it may improve group chemistry and studying experience.
  The next variable is the knowledge gaps among group members.
  In case the gaps are too large we may impair the quality of studying and
- the ability of each individual to make a significant profit.
- At the same time, we assumed small knowledge gaps improve the quality of
- the collective learning, help narrowing the gaps and sustain improved understan
-ding through explanations: Those who struggle can narrow their minor gaps,
- while those who explain sharpen their understanding.
- The following variable is the nature of the exam – realistic or theoretical.
+ the ability of each individual to make a significant profit of it.
+ At the same time, we assumed small knowledge gaps may improve the quality
+ of collective learning, help narrowing the gaps and sustain improved understand
+ing through explanations: Those who struggle can narrow their minor gaps,
+ while those who explain may sharpen their understanding.
+ The third independent variable is the nature of the exam – realistic or
+ theoretical.
  We would like to examine whether there is a way to classify the various
- subjects according to this criterion.
- In practical subjects the main study strategy is practicing.
+ exams according to this criterion.
+ In more practical exams the main study strategy is practicing.
  On the one hand, if another group member solves the exercise we miss out
  on the study process.
  On the other hand, practicing in groups allows us to compare answers among
  group members.
- In theoretical subjects, group studying allows discussion and sharing ideas
- which contributes to each individual in the group.
- Finally, the last variable is the group size.
+ In theoretical subjects, group studying allows discussion and sharing of
+ ideas which may all contribute to each individual's point of view.
+ Finally, the fourth and last independent variable is the study group size.
  Limited group size may contribute to effective studying and to the ability
  of each individual to express freely.
  Too large groups may cause distraction and detract from the studying quality
  of the material.
- The model is represented in Figure 3.
- Along the research we added a confounder to our model, and then redefined
- the hypotheses.
- The cofounding variable is personal level of knowledge relative to the
- group.
+ 
+\end_layout
+
+\begin_layout Standard
+Along the research we've added a confounder to our model, and then redefined
+ our hypotheses.
+ The cofounding variable is the personal level of knowledge relative to
+ the other group members.
  This variable is related to the knowledge gaps, and grant subjective aspect,
- relative to rest of the group members.
- Now, our hypothesis - small knowledge gaps among group members improve
- understanding through explanations, relating specifically to each individual's
- knowledge level (relative to the other group members).
- In addition, we decided to change the relation between relationships among
- the group members and study effectiveness from ‘+’ to ‘?’ since we identified
- other aspects: close relationships may be an obstacle and a distraction
- to the group members, for it is more likely to transfer the conversation
- topic from the learnt subject to unrelated (probably personal) issues.
+ relative to rest of the group.
+ Now, our hypothesis as to the contributuion of small knowledge gaps among
+ group members, relates specifically to each individual's relative knowledge
+ level.
+ In addition, we decided to update the relation between relationships among
+ the group members and the study effectiveness (from positive to more doubtful)
+ since we've identified some other related aspects: Close relationships
+ may be an obstacle and a distraction to the group members, for it is more
+ likely to transfer the conversation topic from the learnt subject to unrelated
+ (probably personal) issues.
  Also, sometimes tension develops among the members of the group.
  The refactored model is represented in Figure 4.
 \end_layout
 
+\begin_layout Subsection
+Research Tools 
+\end_layout
+
 \begin_layout Standard
-4.4 Research Tools Afterwards, we assembled a questionnaire – our research
- tool.
+Then, we assembled a questionnaire – our main research tool.
  The questionnaire was based on possible ideas and conclusions from the
  related works.
  After receiving a first review on the questionnaire, we fixed it accordingly
- and finally distributed it.
- The changes included clarifying the term “Study effectiveness”, adding
- the option to mention the exact score of the exam, and dividing the questionnai
-re into two separate sections to get a more readable questionnaire.
- The questionnaire suits the research model, takes into account each of
- our variables and is available at https://goo.gl/forms/qExJ7c4H8ll6WOC82.
+ and finally distributed it among university students.
+ The changes included clarifying the term “Study effectiveness” (as described
+ in section 4.2.1), adding the option to mention the exact score of the exam
+ - as we did not want it to be a must fill field which might cause some
+ students to feel uncomfortable, and dividing the questionnaire into two
+ separate sections to get a more readable questionnaire.
+ The questionnaire suits the research model, takes into account each and
+ every one of our variables and is available online at https://goo.gl/forms/qExJ7
+c4H8ll6WOC82.
 \end_layout
 
 \begin_layout Standard
@@ -392,12 +472,8 @@ sideways false
 status open
 
 \begin_layout Plain Layout
-
-\end_layout
-
-\begin_layout Plain Layout
 \begin_inset Graphics
-	filename figures/Research method/Figure 1.png
+	filename ../../../../Downloads/shitot_article-master/figures/Research method/Figure 1.png
 
 \end_inset
 
@@ -405,44 +481,7 @@ status open
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Float figure
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename figures/Research method/Figure 2.png
-
-\end_inset
-
-
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-
+Systemmatic Literature Review process
 \end_layout
 
 \end_inset
@@ -462,12 +501,8 @@ sideways false
 status open
 
 \begin_layout Plain Layout
-
-\end_layout
-
-\begin_layout Plain Layout
 \begin_inset Graphics
-	filename figures/Research method/Figure 3.png
+	filename ../../../../Downloads/shitot_article-master/figures/Research method/Figure 2.png
 
 \end_inset
 
@@ -475,7 +510,7 @@ status open
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-
+Research steps
 \end_layout
 
 \end_inset
@@ -495,12 +530,8 @@ sideways false
 status open
 
 \begin_layout Plain Layout
-
-\end_layout
-
-\begin_layout Plain Layout
 \begin_inset Graphics
-	filename figures/Research method/Figure 4.png
+	filename ../../../../Downloads/shitot_article-master/figures/Research method/Figure 3.png
 
 \end_inset
 
@@ -508,6 +539,11 @@ status open
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
+Initial model
+\end_layout
+
+\end_inset
+
 
 \end_layout
 
@@ -516,7 +552,27 @@ status open
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
 \begin_layout Plain Layout
+\begin_inset Graphics
+	filename ../../../../Downloads/shitot_article-master/figures/Research method/Figure 4.png
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Refactored model
+\end_layout
+
+\end_inset
+
 
 \end_layout
 
@@ -527,6 +583,653 @@ status open
 
 \begin_layout Section
 Results
+\end_layout
+
+\begin_layout Subsection
+Respondents
+\end_layout
+
+\begin_layout Standard
+129 students participated in the research, by answering our questionnaire
+ about one exam they've took during their studies.
+ Students' ages distribution is shown in Figure 5.
+ As to the exams taken by the participating students, 67% were practical,
+ and 33% were theoretical.
+\end_layout
+
+\begin_layout Subsection
+Parameters
+\end_layout
+
+\begin_layout Subsubsection
+Study Groups Descriptives
+\end_layout
+
+\begin_layout Standard
+24% of the participants in the survey answered a test they had studied for
+ by themselves, and 76% has indicated they've studied in study groups.
+ 55% of respondents have studied in pairs, 15% in groups of three, 5% in
+ groups of four while the rest have studied in groups of five members.
+ No groups of more than 5 members were indicated.
+ 
+\end_layout
+
+\begin_layout Standard
+50% of the participants indicated that their initial level of knowledge
+ of the material was at the same level as the rest of the group they've
+ attended.
+ 36.7% indicated that their own level of knowledge was higher than that of
+ the rest of the group, and for the rest 13.3% of respondents it was lower.
+ 
+\end_layout
+
+\begin_layout Standard
+In terms of knowledge gaps among the group members, 9.2% of the students
+ indicated that there were very small gaps among the members of the groups
+ they've attended, as 48% indicated relatively small gaps.
+ Another 34.7% confirmed that the gaps were relatively large and the rest
+ 8.2% recorded very large gaps.
+ 
+\end_layout
+
+\begin_layout Standard
+In addition, 46.9% of the students who participated in the survey noted that
+ the relationships between the members of the group was very close and 40.8%
+ said that they were pretty close, while the rest 12.3% recorded a less close
+ connection between the group members.
+ Notably, none of the students who participated in the survey, attended
+ a study group where the connection between the group members was not good
+ at all, according to his opinion.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Exam Results and Study Effectiveness
+\end_layout
+
+\begin_layout Standard
+About 60% of the students indicated that the study period for the exam was
+ long, as 27% dedicated a reasonable time for studying, and the rest confirmed
+ that they had taken the test after dedicating only a short time to studying.
+ 
+\end_layout
+
+\begin_layout Standard
+Data from students' feedback on their level of knowledge after studying
+ and before actually taking the exam, showed that approximately 80% of the
+ students reported that there was a significant improvement in their knowledge
+ level and also that their final level of knowledge was pretty high.
+ The rest, noted that their improvement in understanding the material was
+ relatively low and that their overall understanding of the material was
+ relatively poor.
+\end_layout
+
+\begin_layout Standard
+Students' average grade in the exams reported, was 85.75, with a variance
+ of 10.88.
+ The grades distribution is depicted in Figure 6.
+ Among the students it was noted that about 60% were very satisfied with
+ their grade, about 30% were kind of satisfied with it, and about 10% were
+ not satisfied with their grade at all.
+\end_layout
+
+\begin_layout Standard
+To measure the effectiveness of learning, as well as the final exam results,
+ we calculated two variables - The Exam Results and Study Effectiveness.
+ The first is the outcome of weighting student's satisfaction and exam grade,
+ as defined in section 4.2.2 (Definition 2).
+ The distribution of this variable is shown in Figure 7.
+ The weighted average score is 37.11 out of 50.
+ The second - the study effectiveness, measured as the mean of the students'
+ level of knowledge after learning, the improvement level and the complement
+ of the student's time of study, as defined in section 4.2.1 (Definition 1).
+ It can be seen in Figure 8 that the average effectiveness is 3.42 out of
+ 5.
+ It can also be seen that the distribution of the effectiveness variable
+ is approximately a normal distribution.
+\end_layout
+
+\begin_layout Subsection
+Statistical Analysis 
+\end_layout
+
+\begin_layout Standard
+In order to compare the different study strategies, we performed several
+ different tests.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Study Groups and Individual Studying
+\end_layout
+
+\begin_layout Standard
+First, we conducted a two-factor test that examined the relationship between
+ study groups usage and the exam type (practical or theoretical), as to
+ their contribution to the studying effectiveness.
+ From the test data, we determined that there is statistical significance
+ in the interaction between study groups usage and the exam type.
+ The effectiveness average scores (out of 5) are shown in Table 1.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="3" columns="3">
+<features rotate="90" tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Theoretical
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Practical
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Alone
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3.1667
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3.5263
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Group
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3.511
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3.3873
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+Table 1: Study Effectivness scores
+\end_layout
+
+\begin_layout Standard
+We then carried out a T test to examine whether there is a dependence between
+ the study strategy (alone or in groups) and the exam results variable we've
+ calculated.
+ From the T-test, we found that there is statistical significance.
+ In order to better understand the dependence, we performed a two-factor
+ test that examines the relationship between the study strategy and exam
+ type as to their contribution to the exam results.
+ As in the T test, we found that there is statistical significance between
+ the study strategy and exam results, but no significant interaction was
+ found in this case.
+ The exam results average scores (out of 50) are shown in Table 2.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="3" columns="3">
+<features rotate="90" tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Theoretical
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Practical
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Alone
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+30.4167
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+33.9948
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Group
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+43.1012
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+36.2639
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+Table 2: Exams Results scores
+\end_layout
+
+\begin_layout Standard
+Correlations tests revealed a positive significant correlation between studying
+ in groups and exam results, but no significant correlation between the
+ study strategy and the studying effectiveness.
+ In addition, we found that 16% of those who studied alone expressed remorse
+ and stated that in retrospect they would prefer to study in groups, and
+ 17% of the students who studied in groups expressed remorse and noted that
+ they would prefer to study for the exam by themselves.
+ Thus, the percentage of students who regret each group is relatively the
+ same.
+\end_layout
+
+\begin_layout Subsubsection
+Study Groups Characteristics
+\end_layout
+
+\begin_layout Standard
+After examining whether the study strategy influenced the effectiveness
+ of studying or its results, we examined the different characteristics of
+ study groups and their influence on the study effectiveness and results.
+ This can be shortly summarized as follows:
+\end_layout
+
+\begin_layout Enumerate
+Exam Types: For theoretical exams, the exam results average is 42.717 and
+ the study effectiveness average is 3.556.
+ For practical exams it is 35.128 and 3.418 respectiveley.
+\end_layout
+
+\begin_layout Enumerate
+Group Sizes: In terms of exam results, the averages are consistently decreasing,
+ from 39.214 for groups of 2, until 34.417 for groups of 5.
+ In terms of the mean study effectiveness, it can be seen that for groups
+ of 2 the average effectiveness is 3.391, for groups of 3 it's 3.633, for
+ groups of 4 it's 3.444 and for groups of 5 the average effectiveness is
+ the lowest recorded - 3.167.
+\end_layout
+
+\begin_layout Enumerate
+Relative Knowledge Level: As the relative level of knowledge increases,
+ the exam results average is better, from 39.803 to 34.902.
+ The average study effectiveness recorded for students with a lower level
+ of knowledge is 3.436.
+ For students with similar knowledge level as the rest of group members,
+ the average is 3.376, and for students with a higher level of knowledge
+ it is 3.585.
+\end_layout
+
+\begin_layout Enumerate
+Relationships: When the relationships level is 2 out of 5 (5 is highest),
+ the exam results average is 40.292 and the average effectiveness is 3.083.
+ For relationships level of 3 the averages are 42.819 and 3.625 respectively.
+ For 4 out of 5, the averages are 36.182 and 3.392, and finally for ranking
+ of 5 out of 5, the averages are 34.458, and 3.584.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Knowledge Gaps: As the gaps become larger both the exam results and study
+ effectiveness decrease, from averages of 41.965 and 3.653 for very small
+ gaps, to 30.700 and 3.167 for very large ones.
+ 
+\end_layout
+
+\begin_layout Standard
+Next, We constructed two regression models, to examine the effects of the
+ various variables on both study effectiveness and exam results.
+ The regression equations we received are:
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Formula $Effectiveness=3.339-0.157*Gaps+0.065*RelativeKnowledge+0.049*Relationships+0.085*GroupSize–0.135*TestType$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Formula $ExamResults=55.979-2.532*Gaps+2.189*RelativeKnowledge-1.396*Relationships-2.244*GroupSize–7.109*TestType$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The test type variable was encoded as theoretical exams get a 0 value and
+ practical ones get a value of 1.
+ The first regression equation was found significant.
+\end_layout
+
+\begin_layout Standard
+We then investigated the correlations between the group characteristics
+ and both the study effectiveness and exam results and obtained: 
+\end_layout
+
+\begin_layout Itemize
+Negative correlation between knowledge gaps among group members and study
+ effectiveness.
+ 
+\end_layout
+
+\begin_layout Itemize
+Positive correlation between the relationships between group members and
+ study effectiveness.
+\end_layout
+
+\begin_layout Itemize
+Negative correlation between the relationship between group members and
+ exam results.
+ 
+\end_layout
+
+\begin_layout Itemize
+Correlation between the exam type and the exam results.
+ The more theoretical the subject, the higher the result.
+ 
+\end_layout
+
+\begin_layout Itemize
+No significant correlation between study effectiveness and exam results,
+ as expected.
+\end_layout
+
+\begin_layout Subsubsection
+Social Effects and Main Parameters 
+\end_layout
+
+\begin_layout Standard
+We found that 42% of the respondents indicated that there was no change
+ in the relationships between the group members, while 52% noted that the
+ study had a positive effect in that aspect.
+ However, about 6% reported a negative change.
+\end_layout
+
+\begin_layout Standard
+In addition, as part of the questionnaire, we asked the students what criteria
+ they thought might influence the success of learning.
+ This data, as to the support given to the parameters we chose to focuse
+ in our study, is summarized in Figure 9.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename ../../../../Downloads/shitot_article-master/figures/Results/Ages.png
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Respondents ages
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+presented
+\begin_inset Graphics
+	filename ../../../../Downloads/shitot_article-master/figures/Results/Grades.png
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Grades distribution
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename ../../../../Downloads/shitot_article-master/figures/Results/GradesPersonal_DividedBy6.png
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Exam Results
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename ../../../../Downloads/shitot_article-master/figures/Results/Effectiveness.png
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Study Effectiveness
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename ../../../../Downloads/shitot_article-master/figures/Results/params.png
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Respondents support for Groups Characteristics to consider
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
@@ -548,14 +1251,20 @@ In this study, as we assumed, there was no significant correlation found
 
 \begin_layout Standard
 Looking closely at the questionnaire results we can note several interesting
- points: 1.
- No groups recorded with more than 5 members.
- 2.
- No groups recorded with indication of very large initial knowledge gaps
+ points:
+\end_layout
+
+\begin_layout Enumerate
+No groups recorded with more than 5 members.
+\end_layout
+
+\begin_layout Enumerate
+No groups recorded with indication of very large initial knowledge gaps
  between its members.
- 3.
- No groups recorded with no relationships between group members.
- 
+\end_layout
+
+\begin_layout Enumerate
+No groups recorded with no relationships between group members.
 \end_layout
 
 \begin_layout Standard
@@ -568,7 +1277,6 @@ Those may indicate that even with no guidance, professional knowledge or
  Either way, it strengthens our model's hypotheses as to the preference
  to avoid attending such groups looking for better grades, satisfaction
  and study effectiveness.
- 
 \end_layout
 
 \begin_layout Subsection
@@ -580,20 +1288,16 @@ As to the percentage of students taking the questionnaire regretting the
  way they have chosen to study, no significant difference was found between
  students who studying by themselves and students who took part in a study
  group.
- A pretty low percentage was indicated for both in that aspect.
- 
+ In fact, a pretty low percentage was indicated for both in that aspect.
 \end_layout
 
 \begin_layout Standard
 Examining social effects among students who have attended a study group,
- it was found that almost half of them indicated a positive effect on the
- relationships between group members as a result of studying together.
- 
-\end_layout
-
-\begin_layout Standard
-However, they were also some students (almost 6%) stating the opposite,
- concluding that the study period ended up with a negative social effect.
+ it was found that more than half of them indicated a positive effect on
+ the relationships between group members as a result of studying together.
+ However, they were also some students (almost 6% of questionnaire respondents)
+ stating the opposite, concluding that the study period ended up resulting
+ in a negative social effect.
  
 \end_layout
 
@@ -606,17 +1310,22 @@ In this section we'll address the question whether to study alone or as
  part of a group.
  In the next section, we'll address the different characteristics of study
  groups.
- In this study, we found a significant connection between students' exam
+ 
+\end_layout
+
+\begin_layout Standard
+In this study, we found a significant connection between students' exam
  performance and satisfaction, and study groups usage.
  Rybczynski et al.
  (2010) hasn't got to similar results in a study of undergraduate biology
  students at Miami University, where no differences found between exam scores
  of those who used study groups and those who did not.
- However, others (Sokolove and Marbach-Ad, 1999; Burrowes, 2003; Maloof
- and White, 2005; Tessier, 2007) has indeed indicated such difference.
+ However, he did mention that others (Sokolove and Marbach-Ad, 1999; Burrowes,
+ 2003; Maloof and White, 2005; Tessier, 2007) has indeed indicated such
+ difference.
  But, in all of the above studies, the subjective factor of students' satisfacti
 on level hasn't been taken into account.
- In our investigation, participation in study groups have helped to achieve
+ In our investigation, participation in study groups has helped to achieve
  better exam results.
  In exams categorized as theoretical, this connection was even more significant
  (comparing to practical exams).
@@ -632,11 +1341,10 @@ As to the study effectiveness, a significant interaction was found between
 ness.
  However, for more practical ones, higher effectiveness was reached studying
  alone.
- Such interaction is illustrated in Figure 1.
+ Such interaction is illustrated in Figure 10.
  It also connects to Rybczynski et al.
  that suggested that the benefits of study groups may extend beyond content
  gains as measured by test scores.
- 
 \end_layout
 
 \begin_layout Subsection
@@ -645,31 +1353,38 @@ Study Groups Characteristics
 
 \begin_layout Standard
 In this study, we examined the exam type as well as the following study
- groups' characteristics: 1.
- Group size.
- 2.
- Relationships between group members.
- 3.
- Knowledge gaps.
- 4.
- Initial relative knowledge level.
- 
+ groups' characteristics:
+\end_layout
+
+\begin_layout Enumerate
+Group size.
+\end_layout
+
+\begin_layout Enumerate
+Relationships between group members.
+\end_layout
+
+\begin_layout Enumerate
+Knowledge gaps among members.
+\end_layout
+
+\begin_layout Enumerate
+Initial relative knowledge level.
 \end_layout
 
 \begin_layout Standard
 To reflect the data from this part of the study, two models were created.
  Those models reflect the linear regression equations produced for both
  exam results and study effectiveness.
- The first (Figure 2), represents the positive and negative factors for
+ The first (Figure 11), represents the positive and negative factors for
  producing better exam results.
- The second (Figure 3), stands for producing better effectiveness.
+ The second (Figure 12), stands for producing better effectiveness.
  As to the exam results, a significant linear regression equation was found,
  showing that theoretical exams, smaller group sizes (2-3 members), higher
  level of initial relative knowledge and smaller knowledge gaps all result
  in better exam results, as our initial model states.
  However, too close relationships between group members might result in
  worse exam results.
- 
 \end_layout
 
 \begin_layout Standard
@@ -697,7 +1412,6 @@ One of our goals in this study is to be able to give some useful guidelines
  By evaluating both the results and the study effectiveness separately,
  we aimed at addressing the study groups issue, its advantages and disadvantages
  in a more precise way.
- 
 \end_layout
 
 \begin_layout Standard
@@ -710,14 +1424,18 @@ Significantly better exam results and study effectiveness were found for
  exam results average (which is a number between 0 and 50) by 12 points,
  and the general effectiveness average rate (which is between 0 and 5 points)
  by 0.7 points.
- By concluding both the grade and the satisfaction level from it as the
- exam results, we believe that our results can be stronger and better adjusted
+ 
+\end_layout
+
+\begin_layout Standard
+By concluding both the grade and the satisfaction level from it as the exam
+ results, we believe that our results can be stronger and better adjusted
  to students, and thus more practical.
 \end_layout
 
 \begin_layout Standard
 Rybczynski et al.
- concluded that instructors giving some guidance to students can be very
+ concluded that instructors, giving some guidance to students, can be very
  helpful working as a group.
  A possibility of combining that kind of guidance with our findings and
  implications may be even better in leading students to both arrange and
@@ -730,16 +1448,24 @@ Threats to Validity and Limitations
 
 \begin_layout Standard
 The limitations and threats to our results validity, which can be both internal
- and external, include: 1.
- Limited sample size, of 129 participants.
- 2.
- The questionnaire was spread to university students only.
- 3.
- Inaccurate questionnaire answers (both intentionally and unintentionally).
- 4.
- Parameters such as study environment and more aspects of group dynamics
- were not taken into account.
- 
+ and external, include:
+\end_layout
+
+\begin_layout Enumerate
+Limited sample size, of 129 participants.
+\end_layout
+
+\begin_layout Enumerate
+The questionnaire was spread to university students only.
+\end_layout
+
+\begin_layout Enumerate
+Inaccurate questionnaire answers (both intentionally and unintentionally).
+\end_layout
+
+\begin_layout Enumerate
+Parameters such as the study environment and further, more comlex, aspects
+ of group dynamics were not taken into account.
 \end_layout
 
 \begin_layout Standard
@@ -750,7 +1476,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename figures/figure1.png
+	filename ../../../../Downloads/shitot_article-master/figures/figure1.png
 	width 100col%
 
 \end_inset
@@ -759,7 +1485,7 @@ status open
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Name It
+Interaction between Exam Type and Study Effectiveness 
 \end_layout
 
 \end_inset
@@ -777,7 +1503,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename figures/figure2.png
+	filename ../../../../Downloads/shitot_article-master/figures/figure2.png
 	width 100col%
 
 \end_inset
@@ -786,7 +1512,7 @@ status open
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Name It
+Group characteristics resulted in better Exam Results
 \end_layout
 
 \end_inset
@@ -803,12 +1529,8 @@ sideways false
 status open
 
 \begin_layout Plain Layout
-
-\end_layout
-
-\begin_layout Plain Layout
 \begin_inset Graphics
-	filename figures/figure3.png
+	filename ../../../../Downloads/shitot_article-master/figures/figure3.png
 	width 100col%
 
 \end_inset
@@ -817,15 +1539,11 @@ status open
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Name It
+Group characteristics resulted in higher Study Effectiveness
 \end_layout
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Plain Layout
 
 \end_layout
 
@@ -845,17 +1563,23 @@ In our research we wanted to understand whether, and more important - when
  on study ways (alone vs groups), group sizes, exam types, group dynamics
  and knowledge gaps; and their effect on study effectiveness and exam results.
  It has been concluded that large groups and close relationships produced
- better effectiveness but worse results, as smaller knowledge gaps and theoretic
-al exams had a positive influence on both aspects.
- Our model parameters were considered significant by more than 55% of participan
-ts.
+ better effectiveness but worse results, as smaller knowledge gaps, higher
+ level of relative knowledge and more theoretical exams had a positive influence
+ on both aspects.
+\end_layout
+
+\begin_layout Standard
+Our model parameters were indeed considered significant by more than 55%
+ of our questionnaire respondents.
  The most significant one indicated was the Group Size, supported by more
  than 75% of questionnaire respondents.
- For future work, we’d like to also examine the effects of Studying Environment
- and Group Dynamics, as suggested by some of the respondents.
- We’d also like to spread the questionnaire to a larger number of respondents
+\end_layout
+
+\begin_layout Standard
+For future work, we’d like to also examine the effects of Studying Environment
+ and further Group Dynamics, as suggested by some of the respondents.
+ We’d also like to spread the questionnaire to a larger number of students
  in order to get better feedback and more reliable results.
- 
 \end_layout
 
 \begin_layout Standard
