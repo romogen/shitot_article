@@ -4,7 +4,7 @@
 \begin_header
 \save_transient_properties true
 \origin unavailable
-\textclass article
+\textclass extarticle
 \use_default_options true
 \maintain_unincluded_children false
 \language english
@@ -26,7 +26,8 @@
 \output_sync 0
 \bibtex_command default
 \index_command default
-\paperfontsize default
+\paperfontsize 12
+\spacing single
 \use_hyperref false
 \papersize default
 \use_geometry false
@@ -116,13 +117,133 @@ Related Work
 \end_layout
 
 \begin_layout Standard
+This paper tries to determine the effectiveness of studying in groups based
+ on aspects such as personal satisfaction.
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+should add more aspects?
+\end_layout
+
+\end_inset
+
+ The subject was studied in several papers in the past.
+\end_layout
+
+\begin_layout Standard
+In a study conducted by Klein et al.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "klein1994effects"
+
+\end_inset
+
+ in the area of learning instructional theory they checked the effect of
+ individual and Cooperative (eg.
+ group) learning on Performance and continuing motivation.
+ The paper found out that individual learning is better than cooperative
+ learning.
+ Although Klein et al.
+ did take into account the motivation during the learning the paper measured
+ the success in the post-test only by the grade and not by satisfaction
+ and other aspects.
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+what other aspects
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Another research on an ungraduated biology class by Rybczynski.
+ and Schussler.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "rybczynski2011student"
+
+\end_inset
+
+ used 4 surveys to check wether or not group learning effects tests grades.
+ The paper didn't find a strong correlation between learning in groups to
+ success of failure.
+\end_layout
+
+\begin_layout Standard
+While the 2 aricles persented above checked the effect of group learning
+ in a non mathematical study fields, the next one
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+or 2?
+\end_layout
+
+\end_inset
+
+ is about studying mathematics in which the effect of group learning can
+ be different 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+need maybe a citation to show that the difference is a thing
+\end_layout
+
+\end_inset
+
+.
+ Bryson.
+ paper 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "bryson2007effectiveness"
 
 \end_inset
 
+ in mathematics class examined the improvements in a post-test in comparison
+ to a pre-test after learning material the students have learned a long
+ time ago.
+ This research evaluated the effectiveness by post-test grades comparing
+ to the pre-test grades and by no other aspect.
+ The research didn't get to a conclusion because the pre-test was too easy
+ and the grades were high and thus Bryson couldn't find an improvement to
+ conclude from.
+\end_layout
 
+\begin_layout Standard
+While all the other paper talks about the learning benefits at tests, there
+ is a paper by Hammar.
+ talking about the effect of cooperative learning on the learning experience
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "hammar2014group"
+
+\end_inset
+
+.
+ Hammar made a qaulitative survey with open and close questions for college
+ students and found out that cooperative learning improves students learning
+ experince in 97% with correlation to 3 parameters: 1.
+ Learning 2.
+ study-social function 3.
+ organization.
+\end_layout
+
+\begin_layout Standard
+We found out hat most of the papers observe the success only by the raw
+ grade and thos who do take into assumption the experince and satisfication
+ don't talk about the succes and satisfication in the final test.
+ Our research is facing this problem exactly.
 \end_layout
 
 \begin_layout Section
@@ -344,6 +465,98 @@ The limitations and threats to our results validity, which can be both internal
  Parameters such as study environment and more aspects of group dynamics
  were not taken into account.
  
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename figures/figure1.png
+	width 100col%
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Name It
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename figures/figure2.png
+	width 100col%
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Name It
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename figures/figure3.png
+	width 100col%
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Name It
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
