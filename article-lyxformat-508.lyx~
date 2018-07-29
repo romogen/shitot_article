@@ -1,0 +1,457 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Title Title I Don't Know
+\end_layout
+
+\begin_layout Author
+Rom Ogen, Avishay Kitron, Omer Harel, Sagi Nakash
+\end_layout
+
+\begin_layout Section
+Abstract
+\end_layout
+
+\begin_layout Standard
+From elementary and high schools until college, students all over the world
+ are mainly evaluated by exam grades.
+ Thus, for them, studying well before exams is definitely a key to success.
+ Our research focuses on the question whether, and more important - when
+ and how, to study alone or as part of study group.
+ Previous research has mainly focused on objective grades-driven estimations.
+ Thus, not addressing the full, complex picture - excluding subjective aspects
+ such as personal satisfaction and social ones as well.
+ Today, as the expectation for personal customization is taken for granted,
+ those kinds of research appears to be very limited in their ability to
+ reach significant, practical outcomes and recommendations for students.
+ In our study, we tried to overcome just that, examining students' grades
+ as well as parameters like self-improvement, study time and satisfaction.
+\end_layout
+
+\begin_layout Standard
+We spread a questionnaire between university students gathering information
+ on study ways (alone vs groups), group sizes, exam types, group dynamics
+ and knowledge gaps; and their effect on study effectiveness and exam results.
+ It has been concluded that large groups and close relationships produced
+ better effectiveness but worse results, as smaller knowledge gaps and theoretic
+al exams had a positive influence on both aspects.
+\end_layout
+
+\begin_layout Section
+Introduction
+\end_layout
+
+\begin_layout Section
+Related Work
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "bryson2007effectiveness"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Research Method
+\end_layout
+
+\begin_layout Section
+Results
+\end_layout
+
+\begin_layout Section
+Discussion
+\end_layout
+
+\begin_layout Subsection
+Base Assumptions
+\end_layout
+
+\begin_layout Standard
+In this study, as we assumed, there was no significant correlation found
+ between exams results (Definition 1) and studying effectiveness (Definition
+ 2).
+ Thus, our model's base assumption seems to be correct, and in order to
+ examine the topic of study groups and address its complexity correctly
+ and effectively - there is a need to examine those two parameters separately.
+\end_layout
+
+\begin_layout Standard
+Looking closely at the questionnaire results we can note several interesting
+ points: 1.
+ No groups recorded with more than 5 members.
+ 2.
+ No groups recorded with indication of very large initial knowledge gaps
+ between its members.
+ 3.
+ No groups recorded with no relationships between group members.
+ 
+\end_layout
+
+\begin_layout Standard
+Those may indicate that even with no guidance, professional knowledge or
+ some research outcomes usage; students tend to avoid studying in groups
+ with such characteristics.
+ It might sometimes be a result of previous experience with such groups
+ that ended up with negative results or even a result of an intuition, as
+ they 'feel' or believe it is not effective.
+ Either way, it strengthens our model's hypotheses as to the preference
+ to avoid attending such groups looking for better grades, satisfaction
+ and study effectiveness.
+ 
+\end_layout
+
+\begin_layout Subsection
+Regrets and Social Effects
+\end_layout
+
+\begin_layout Standard
+As to the percentage of students taking the questionnaire regretting the
+ way they have chosen to study, no significant difference was found between
+ students who studying by themselves and students who took part in a study
+ group.
+ A pretty low percentage was indicated for both in that aspect.
+ 
+\end_layout
+
+\begin_layout Standard
+Examining social effects among students who have attended a study group,
+ it was found that almost half of them indicated a positive effect on the
+ relationships between group members as a result of studying together.
+ 
+\end_layout
+
+\begin_layout Standard
+However, they were also some students (almost 6%) stating the opposite,
+ concluding that the study period ended up with a negative social effect.
+ 
+\end_layout
+
+\begin_layout Subsection
+Studying Alone vs In Group
+\end_layout
+
+\begin_layout Standard
+In this section we'll address the question whether to study alone or as
+ part of a group.
+ In the next section, we'll address the different characteristics of study
+ groups.
+ In this study, we found a significant connection between students' exam
+ performance and satisfaction, and study groups usage.
+ Rybczynski et al.
+ (2010) hasn't got to similar results in a study of undergraduate biology
+ students at Miami University, where no differences found between exam scores
+ of those who used study groups and those who did not.
+ However, others (Sokolove and Marbach-Ad, 1999; Burrowes, 2003; Maloof
+ and White, 2005; Tessier, 2007) has indeed indicated such difference.
+ But, in all of the above studies, the subjective factor of students' satisfacti
+on level hasn't been taken into account.
+ In our investigation, participation in study groups have helped to achieve
+ better exam results.
+ In exams categorized as theoretical, this connection was even more significant
+ (comparing to practical exams).
+ It strengthens our model, which stated a hypothetical positive connection
+ between exams considered theoretical and exam results.
+ 
+\end_layout
+
+\begin_layout Standard
+As to the study effectiveness, a significant interaction was found between
+ the exam type (theoretical or practical) and study groups usage.
+ For theoretical exams, attending a study group has resulted in higher effective
+ness.
+ However, for more practical ones, higher effectiveness was reached studying
+ alone.
+ Such interaction is illustrated in Figure 1.
+ It also connects to Rybczynski et al.
+ that suggested that the benefits of study groups may extend beyond content
+ gains as measured by test scores.
+ 
+\end_layout
+
+\begin_layout Subsection
+Study Groups Characteristics
+\end_layout
+
+\begin_layout Standard
+In this study, we examined the exam type as well as the following study
+ groups' characteristics: 1.
+ Group size.
+ 2.
+ Relationships between group members.
+ 3.
+ Knowledge gaps.
+ 4.
+ Initial relative knowledge level.
+ 
+\end_layout
+
+\begin_layout Standard
+To reflect the data from this part of the study, two models were created.
+ Those models reflect the linear regression equations produced for both
+ exam results and study effectiveness.
+ The first (Figure 2), represents the positive and negative factors for
+ producing better exam results.
+ The second (Figure 3), stands for producing better effectiveness.
+ As to the exam results, a significant linear regression equation was found,
+ showing that theoretical exams, smaller group sizes (2-3 members), higher
+ level of initial relative knowledge and smaller knowledge gaps all result
+ in better exam results, as our initial model states.
+ However, too close relationships between group members might result in
+ worse exam results.
+ 
+\end_layout
+
+\begin_layout Standard
+Theoretical exams, initial relative knowledge of a higher level and smaller
+ knowledge gaps appears to positively affect the study effectiveness also.
+ But in contrast to exam results, better effectiveness is shown for groups
+ with more members and also with closer relationships among them.
+\end_layout
+
+\begin_layout Standard
+That expresses a part of the difference between effectiveness and exam results,
+ as students might feel that their studying group was very effective but
+ end up not satisfied with their grade.
+ Studying with more friends might make the process more fun and feel better,
+ but lower the results from the same reasons.
+\end_layout
+
+\begin_layout Subsection
+Implications for Practice
+\end_layout
+
+\begin_layout Standard
+One of our goals in this study is to be able to give some useful guidelines
+ for students or even for students to be.
+ By evaluating both the results and the study effectiveness separately,
+ we aimed at addressing the study groups issue, its advantages and disadvantages
+ in a more precise way.
+ 
+\end_layout
+
+\begin_layout Standard
+Significantly better exam results and study effectiveness were found for
+ groups with no more than 3 members, with small knowledge gaps among them.
+ Being able to attend such a group, when your initial knowledge level comparing
+ to the other group members is pretty high, is very advisable according
+ to our results.
+ Looking at the numbers, such combination appears to increase the general
+ exam results average (which is a number between 0 and 50) by 12 points,
+ and the general effectiveness average rate (which is between 0 and 5 points)
+ by 0.7 points.
+ By concluding both the grade and the satisfaction level from it as the
+ exam results, we believe that our results can be stronger and better adjusted
+ to students, and thus more practical.
+\end_layout
+
+\begin_layout Standard
+Rybczynski et al.
+ concluded that instructors giving some guidance to students can be very
+ helpful working as a group.
+ A possibility of combining that kind of guidance with our findings and
+ implications may be even better in leading students to both arrange and
+ study in groups more effectively.
+\end_layout
+
+\begin_layout Subsection
+Threats to Validity and Limitations
+\end_layout
+
+\begin_layout Standard
+The limitations and threats to our results validity, which can be both internal
+ and external, include: 1.
+ Limited sample size, of 129 participants.
+ 2.
+ The questionnaire was spread to university students only.
+ 3.
+ Inaccurate questionnaire answers (both intentionally and unintentionally).
+ 4.
+ Parameters such as study environment and more aspects of group dynamics
+ were not taken into account.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename figures/figure1.png
+	width 100col%
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Name It
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename figures/figure2.png
+	width 100col%
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Name It
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename figures/figure3.png
+	width 100col%
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Name It
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Summary
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "References"
+options "plain"
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
